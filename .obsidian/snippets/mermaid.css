@@ -1,0 +1,10 @@
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.mermaid:hover svg {
+    max-width: inherit;
+    height: inherit;
+    overflow-x: auto; /* Enables horizontal scrolling on hover */
+}

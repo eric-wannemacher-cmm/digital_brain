@@ -2,6 +2,9 @@
 ## Questions
 - [ ] TKTK
 
+## Todo
+- [ ] Verify portal.azure.com access
+
 ## Notes
 1. TKTK
 

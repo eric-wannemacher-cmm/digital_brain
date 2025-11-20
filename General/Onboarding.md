@@ -1,0 +1,48 @@
+
+- [ ] Review compensation and career planning
+	- [ ] Downloaded doc
+	- [ ] Comparison in Workday
+- [ ] [https://mckessoncorp.sharepoint.com/sites/Onboarding](https://mckessoncorp.sharepoint.com/sites/Onboarding)
+- [ ] [Onboarding Refresh - Platform - Confluence](https://covermymeds.atlassian.net/wiki/spaces/PLATFORM/pages/2085716253/Onboarding+Refresh)
+- [ ] [https://covermymeds.atlassian.net/servicedesk/customer/portal/1036/IT-85933](https://covermymeds.atlassian.net/servicedesk/customer/portal/1036/IT-85933
+- [ ] [https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/CoverMyMeds-Where-We-Work.aspx](https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/CoverMyMeds-Where-We-Work.aspx)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/WYFRf](https://covermymeds.atlassian.net/wiki/x/WYFRf)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/14Bjlw](https://covermymeds.atlassian.net/wiki/x/14Bjlw)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/AYA_eQ](https://covermymeds.atlassian.net/wiki/x/AYA_eQ)
+- [x] Teams channels
+	- [x] General
+	- [x] SRE Saloon
+- [x] Ensure that I'm in meetings
+	- [x] Mon - Combined refinement (opt)
+	- [x] Tues/Thurs - SRE swarm time (opt)
+	- [x] Wed - SRE swarm time (opt)
+	- [x] Tues bi-weekly - SRE combined planning
+	- [x] Wed - SRE combined party
+	- [x] Stand ups
+	- [x] Retros
+	- [x] Team meetings
+- [ ] Review process docs
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/_YUDLQ](https://covermymeds.atlassian.net/wiki/x/_YUDLQ)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/l4L7Wg](https://covermymeds.atlassian.net/wiki/x/l4L7Wg)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/pQCcOg](https://covermymeds.atlassian.net/wiki/x/pQCcOg)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/n4o7IQ](https://covermymeds.atlassian.net/wiki/x/n4o7IQ)
+
+- [ ] Workday onboarding tasks
+	- [ ] Change photo
+	- [ ] Update skills
+
+- [ ] My Learning
+	- [ ] [FY26 Cybersecurity Fundamentals - McKesson Mandatory Training | AF26 Principes Fondements de la Cybersécurité - Formation obligatoire McKesson (ISRM-CF-CURR-FY26)](https://mlp.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=8f138da6-d115-4393-b19f-5a541ac0ad0b)
+	- [x] Workplace Harassment - Employee (WFC-NHWPH-EE-45)
+	- [ ] New Employee Safety Orientation - Office/Work at Home (GSS-NESO-OWAH)
+	- [ ] [Previous Inventions Form Acknowledgement (MCK-PREV-INV-FORM-ACK2)](https://mlp.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=cfe002c4-49e5-4959-936f-cb9cb5b794c6)
+	- [ ] New Hire Workplace Violence Prevention (GSS-WPV-NH)
+	- [ ] [New Hire Compliance Curriculum for Employees (CCE-NH-FY26-EE-CURR)](https://mlp.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=a6662a8a-da4a-485b-b6d2-e5be2f7018bd)
+	- [ ] Town hall - [https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/Stay-Updated.aspx](https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/Stay-Updated.aspx)
+- [ ] Benefits enrollment
+- [ ] Update the Access Request doc to remove the Add Office to second account
+- [ ] YourCare registration
+	- [ ] NOTE: There is a 14-day period from your start date to register in the Platform. Set a reminder for two weeks from now to sign up and get started!
+- [ ] Tuition reimbursement?
+- [ ] Technology certifications and exams (excluding job requirement certifications) taken at a non-accredited institution that is approved by the employee’s manager (signed letter of approval required with Pre-Approval Application). (Microsoft, Cisco CCNA, ITIL, VMware, PMI, CISSP, etc.)
+- [ ] Conferences?
