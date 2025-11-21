@@ -1,18 +1,19 @@
-# Overview
-## Questions
-- [ ] TKTK
+## Goal
 
-## Todo
-- [ ] Verify portal.azure.com access
-
+---
 ## Notes
 1. TKTK
-
-# Meetings
-
-## Meeting Title: 
-### Notes
-### Action Items
+---
+## Questions
 - [ ] TKTK
+---
+## Tasks
 
-### Questions
+### Today
+- [ ] TKTK
+### Other items due today
+```tasks
+due today
+```
+---
+# Meetings

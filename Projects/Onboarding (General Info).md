@@ -1,0 +1,6 @@
+- [ ] Review compensation and career planning
+	- [ ] Downloaded doc
+	- [ ] Comparison in Workday
+- [ ] Tuition reimbursement?
+- [ ] Technology certifications and exams (excluding job requirement certifications) taken at a non-accredited institution that is approved by the employee’s manager (signed letter of approval required with Pre-Approval Application). (Microsoft, Cisco CCNA, ITIL, VMware, PMI, CISSP, etc.)
+- [ ] Conferences?

@@ -1,0 +1,2 @@
+- Joined ~2018
+- Did internship while getting Masters
