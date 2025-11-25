@@ -16,4 +16,7 @@
 due today
 ```
 ---
+## Accomplishments
+
+---
 # Meetings

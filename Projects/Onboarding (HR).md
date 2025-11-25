@@ -1,28 +1,6 @@
 
 - [ ] [https://mckessoncorp.sharepoint.com/sites/Onboarding](https://mckessoncorp.sharepoint.com/sites/Onboarding)
-- [ ] [Onboarding Refresh - Platform - Confluence](https://covermymeds.atlassian.net/wiki/spaces/PLATFORM/pages/2085716253/Onboarding+Refresh)
-- [ ] [https://covermymeds.atlassian.net/servicedesk/customer/portal/1036/IT-85933](https://covermymeds.atlassian.net/servicedesk/customer/portal/1036/IT-85933
-- [ ] [https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/CoverMyMeds-Where-We-Work.aspx](https://mckessoncorp.sharepoint.com/sites/rxTechOrg/SitePages/CoverMyMeds-Where-We-Work.aspx)
-- [ ] [https://covermymeds.atlassian.net/wiki/x/WYFRf](https://covermymeds.atlassian.net/wiki/x/WYFRf)
-- [ ] [https://covermymeds.atlassian.net/wiki/x/14Bjlw](https://covermymeds.atlassian.net/wiki/x/14Bjlw)
-- [ ] [https://covermymeds.atlassian.net/wiki/x/AYA_eQ](https://covermymeds.atlassian.net/wiki/x/AYA_eQ)
-- [x] Teams channels
-	- [x] General
-	- [x] SRE Saloon
-- [x] Ensure that I'm in meetings
-	- [x] Mon - Combined refinement (opt)
-	- [x] Tues/Thurs - SRE swarm time (opt)
-	- [x] Wed - SRE swarm time (opt)
-	- [x] Tues bi-weekly - SRE combined planning
-	- [x] Wed - SRE combined party
-	- [x] Stand ups
-	- [x] Retros
-	- [x] Team meetings
-- [ ] Review process docs
-	- [ ] [https://covermymeds.atlassian.net/wiki/x/_YUDLQ](https://covermymeds.atlassian.net/wiki/x/_YUDLQ)
-	- [ ] [https://covermymeds.atlassian.net/wiki/x/l4L7Wg](https://covermymeds.atlassian.net/wiki/x/l4L7Wg)
-	- [ ] [https://covermymeds.atlassian.net/wiki/x/pQCcOg](https://covermymeds.atlassian.net/wiki/x/pQCcOg)
-	- [ ] [https://covermymeds.atlassian.net/wiki/x/n4o7IQ](https://covermymeds.atlassian.net/wiki/x/n4o7IQ)
+- [x] - [x] Team meetings
 - [ ] Workday onboarding tasks
 	- [ ] Change photo
 	- [ ] Update skills
@@ -34,5 +12,4 @@
 	- [ ] New Hire Workplace Violence Prevention (GSS-WPV-NH)
 	- [ ] [New Hire Compliance Curriculum for Employees (CCE-NH-FY26-EE-CURR)](https://mlp.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=a6662a8a-da4a-485b-b6d2-e5be2f7018bd)
 - [ ] Benefits enrollment
-- [ ] YourCare registration
-	- [ ] NOTE: There is a 14-day period from your start date to register in the Platform. Set a reminder for two weeks from now to sign up and get started! 🛫 2025-11-29
+- [ ] YourCare registration 🛫 2025-11-29

@@ -1,2 +1,23 @@
 
-- [ ] Schedule initial meeting with team members
+- [ ] [Onboarding Refresh - Platform - Confluence](https://covermymeds.atlassian.net/wiki/spaces/PLATFORM/pages/2085716253/Onboarding+Refresh)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/WYFRf](https://covermymeds.atlassian.net/wiki/x/WYFRf)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/14Bjlw](https://covermymeds.atlassian.net/wiki/x/14Bjlw)
+- [ ] [https://covermymeds.atlassian.net/wiki/x/AYA_eQ](https://covermymeds.atlassian.net/wiki/x/AYA_eQ)
+- [ ] Review process docs
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/_YUDLQ](https://covermymeds.atlassian.net/wiki/x/_YUDLQ)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/l4L7Wg](https://covermymeds.atlassian.net/wiki/x/l4L7Wg)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/pQCcOg](https://covermymeds.atlassian.net/wiki/x/pQCcOg)
+	- [ ] [https://covermymeds.atlassian.net/wiki/x/n4o7IQ](https://covermymeds.atlassian.net/wiki/x/n4o7IQ)
+- [x] Teams channels ✅ 2025-11-21
+	- [x] General
+	- [x] SRE Saloon
+- [x] Ensure that I'm in meetings
+	- [x] Mon - Combined refinement (opt)
+	- [x] Tues/Thurs - SRE swarm time (opt)
+	- [x] Wed - SRE swarm time (opt)
+	- [x] Tues bi-weekly - SRE combined planning
+	- [x] Wed - SRE combined party
+	- [x] Stand ups
+	- [x] Retros
+- [ ] [Order a phone] [Order a phone?](https://mckessoncorp.sharepoint.com/sites/mobility/SitePages/YOUmobile.aspx?csf=1&web=1&e=vbdeuG&CID=5732b086-9cbb-4de2-b562-4d87ca08a65f) 📅 2025-11-28
+- [ ] Schedule intro meetings with SREs on other teams 📅 2025-12-01 

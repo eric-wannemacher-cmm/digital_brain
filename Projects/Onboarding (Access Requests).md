@@ -1,2 +1,86 @@
-- [ ] Submit requests for Terraform access
+
+- [ ] Confluence Checklist https://covermymeds.atlassian.net/wiki/spaces/~71202059703e54b7fd46789dcb2d30a20e39c5/pages/3009314835/Access+Requests
+
 - [ ] Update the Access Request doc to remove the Add Office to second account
+
+
+Sarver's 20251124 group list
+```
+AccountType_Admin
+app_ansible_awx
+app_ansible_awx_admin
+App_Jenkins
+App_Logs
+App_Sentry
+argocd_admins-sharedtech-stable
+argocd_admins-sharedtech-stable
+argocd_admins-sharedtech-unstable
+azure_azuread_application_administrators
+azure_azuread_directory_readers
+azure_azuread_directory_writers
+azure_provider_keyvault_admins
+azure_stable_provider_kubernetes_admin
+azure_unstable_provider_kubernetes_admin
+azurekeyvault_ops
+azurekeyvault_ops_high
+Certificate_Deploy
+Citrix-SSO-Users
+Cloud_Customer_Test_Admins
+Cloud_Global_SuperAdmins
+Cloud_Payer_Admins
+Cloud_Payer_Test_Admins
+Cloud_Provider_Admins
+cmm-apps-staging-admins
+cmm-sandbox_Contributor
+cmm-stable_Reader
+cmm-stable_Reader
+cmm-unstable_Contributor
+F5Admins
+FS_Infrastructure
+iDRAC Admins
+kat-stable-admins
+kat-unstable-admins
+linux_ops_admins
+Network_Tools_Admins
+okta_app_cmm_microsoft_rdp
+okta_app_digicert
+okta_app_dnsmadeeasy
+okta_secondary_accounts
+okta_vpn_entitlement
+RDC_lcpfeedbackloop
+Sharepoint_Admins
+solarwinds_dba
+SonicWall Admins
+sys_internal_cert_requesters
+sys_linuxadmins
+sys_vmware_OPS_PowerUsers
+vault-stable-admins
+vault-unstable-admins
+VDI_All
+VDI_Citrix_Inf
+VDI_Infrastructure
+VDI_SecureDesktop
+```
+
+My 20251124 group list
+```
+AccountType_Admin
+app_ansible_awx
+app_ansible_awx_admin
+app_panorama_level1
+argocd_admins-sharedtech-stable
+argocd_admins-sharedtech-unstable
+azurekeyvault_devs
+azurekeyvault_ops
+azurekeyvault_ops_high
+F5Admins
+firewall_admins
+Network_Tools_Admins
+okta_app_digicert
+okta_app_dnsmadeeasy
+okta_secondary_accounts
+sys_linuxadmins
+sys_linuxops
+sys_vmware_OPS_PowerUsers
+VDI_All
+```

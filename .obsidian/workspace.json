@@ -4,101 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "06121e7ed9aec234",
+        "id": "22157c6a55fe5430",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5772e178296ccc",
+            "id": "a59d3ccdc46074ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Matthew Barber Department.md",
+                "file": "People/Robertson, Patrick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matthew Barber Department"
+              "title": "Robertson, Patrick"
             }
           },
           {
-            "id": "223dca2dce982cc8",
+            "id": "7d5fccf512e5bc2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Ryan Sanders Department.md",
+                "file": "General/LDAP Group Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ryan Sanders Department"
+              "title": "LDAP Group Search"
             }
           },
           {
-            "id": "185318d42709bd45",
+            "id": "410336a76431ad9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Adam Pintoro Department.md",
+                "file": "Daily/2025-11-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adam Pintoro Department"
-            }
-          },
-          {
-            "id": "b6b327436704907a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Joshua Riggs Department.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Joshua Riggs Department"
-            }
-          },
-          {
-            "id": "7b2e83b2ae2855bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/In-office booking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In-office booking"
+              "title": "2025-11-25"
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "f6d71ea861921b5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "258560f19149ed93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Onboarding (General Info).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Onboarding (General Info)"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ldap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/In-office booking.md",
+                "file": "Daily/2025-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for In-office booking"
+              "title": "Backlinks for 2025-11-25"
             }
           },
           {
@@ -262,35 +215,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b2e83b2ae2855bd",
+  "active": "410336a76431ad9d",
   "lastOpenFiles": [
-    "General/Untitled.md",
-    "General/In-office booking.md",
-    "Tasks/Projects.md",
+    "General/LDAP Group Search.md",
+    "Daily/2025-11-25.md",
+    "Tasks/Education.md",
+    "People/Patrick Robertson Department.md",
     "Projects/Onboarding (Team).md",
-    "Projects/Onboarding (HR).md",
-    "Projects/Onboarding (General Info).md",
+    "Daily/2025-11-24.md",
+    "General/Untitled.md",
+    "People/Robertson, Patrick.md",
     "Projects/Onboarding (Access Requests).md",
-    "Tasks/Repeating.md",
+    "Projects/zsh plugin - azctx.md",
+    "Projects/Laptop Setup.md",
+    "People/Sarver, Andrew.md",
+    "General/Accounts.md",
+    "People/Hamm, Victoria.md",
     "Daily/2025-11-21.md",
-    "Templates/Meeting.md",
-    "Templates/Daily Note.md",
-    "Tasks/Today.md",
-    "Tasks/People.md",
-    "People/Matthew Barber Department.md",
-    "People/Barber, Matt.md",
-    "People/Riggs, Josh.md",
-    "People/Joshua Riggs Department.md",
-    "People/Pintoro, Adam.md",
-    "People/Adam Pintoro Department.md",
-    "People/Sanders, Ryan.md",
+    "General/Architecture Components.md",
+    "People/Woolbridge, Amon.md",
+    "General/Wannemacher, Eric.md",
     "People/Ryan Sanders Department.md",
+    "People/Adam Pintoro Department.md",
+    "People/Joshua Riggs Department.md",
+    "Tasks/Projects.md",
+    "General/Workstations, desks, and offices.md",
+    "General/Meeting rooms.md",
+    "Projects/Obsidian Sort Plugin.md",
+    "Projects/Onboarding (HR).md",
     "Projects",
-    "People/Moon, Seyoung.md",
-    "People/Steele, Josh.md",
-    "People/Polivchak, Jamison.md",
-    "People/Kelly, Devin.md",
-    "People/Gross, Chelsea.md",
     "Tasks",
     "General/Untitled.base",
     "People",
